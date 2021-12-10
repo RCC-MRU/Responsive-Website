@@ -11,21 +11,13 @@
 .img-css {
   width: 100%;
   height: 40vh;
+  padding: 0.5rem 0;
 }
 
 #contact {
   background-color: #343a40;
   color: #fff;
-}
-
-input {
-  padding: 5px 0;
-  margin: 5px 0;
-  width: 100%;
-}
-
-.logo {
-  margin: 10%;
+  padding: 1rem;
 }
 
 #copyright {
